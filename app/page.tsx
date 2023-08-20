@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div>
       <h2>Subscribe to channel</h2>
-      <UserButton />
+    
     </div>
   );
 }
