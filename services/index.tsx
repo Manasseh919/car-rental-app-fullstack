@@ -11,6 +11,11 @@ export const getCarsList = async () => {
         price
         publishedAt
         updatedAt
+        image {
+          url
+        }
+        carType
+        carBrand
       }
     }
   `;
